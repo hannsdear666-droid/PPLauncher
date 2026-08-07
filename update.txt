@@ -1,0 +1,7 @@
+[Launcher]
+Maintenance=false
+MaintenanceMessage=伺服器目前維護中，請稍後再試。
+CurrentVersion=1.5.0
+NoticeUrl=https://raw.githubusercontent.com/hannsdear666-droid/PPLauncher/refs/heads/main/notice.txt
+VersionUrl=https://raw.githubusercontent.com/hannsdear666-droid/PPLauncher/refs/heads/main/version.txt
+UpdateUrl=https://raw.githubusercontent.com/hannsdear666-droid/PPLauncher/refs/heads/main/update.txt
